@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>backboard.png</file>
+        <file>start.jpg</file>
+        <file>start.png</file>
+        <file>apple.png</file>
+        <file>apple_left.png</file>
+        <file>apple_right.png</file>
+        <file>banana.png</file>
+        <file>banana_left.png</file>
+        <file>banana_right.png</file>
+        <file>bomb.png</file>
+        <file>bomb_flash.png</file>
+        <file>peach.png</file>
+        <file>peach_left.png</file>
+        <file>peach_right.png</file>
+        <file>strawberry.png</file>
+        <file>strawberry_left.png</file>
+        <file>strawberry_right.png</file>
+        <file>temp-removebg-preview.png</file>
+        <file>watermelon.png</file>
+        <file>watermelon_left.png</file>
+        <file>watermelon_right.png</file>
+        <file>newgame.png</file>
+        <file>quit.png</file>
+        <file>dojo.png</file>
+        <file>tanhao.png</file>
+        <file>wenhao.png</file>
+        <file>back.png</file>
+        <file>back.jpg</file>
+        <file>yinyuekai.png</file>
+        <file>yinyueguan.png</file>
+    </qresource>
+</RCC>

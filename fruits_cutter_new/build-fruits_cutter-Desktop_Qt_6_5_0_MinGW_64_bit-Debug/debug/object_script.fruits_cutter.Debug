@@ -1,0 +1,13 @@
+debug/classic.o
+debug/cutted_fruit.o
+debug/fruit.o
+debug/health.o
+debug/knife.o
+debug/main.o
+debug/mainwindow.o
+debug/score.o
+debug/qrc_img.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_cutted_fruit.o
+debug/moc_fruit.o
+debug/moc_mainwindow.o

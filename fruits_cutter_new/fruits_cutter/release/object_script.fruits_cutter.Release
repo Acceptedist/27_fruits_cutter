@@ -1,0 +1,13 @@
+release/classic.o
+release/cutted_fruit.o
+release/fruit.o
+release/health.o
+release/knife.o
+release/main.o
+release/mainwindow.o
+release/score.o
+release/qrc_img.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_cutted_fruit.o
+release/moc_fruit.o
+release/moc_mainwindow.o

@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bgm.wav</file>
+        <file>fruit_sound.wav</file>
+        <file>bomb_sound.wav</file>
+    </qresource>
+</RCC>
